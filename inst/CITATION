@@ -1,0 +1,33 @@
+citHeader("To cite the 'intervcomp' package in publications use:")
+
+citEntry(entry="Article",
+         title = "Assessing Equality of Means Using the Overlap of
+		   Range-Preserving Confidence Intervals.",
+         author = personList(as.person("Kimihiro Noguchi"),
+                             as.person("Fernando Marmolejo-Ramos")),
+         journal      = "The American Statistician",
+         year         = "2016",
+         volume       = "70",
+         number       = "4",
+         pages        = "325–334",
+
+         textVersion =
+         paste("Kimihiro Noguchi and Fernando-Marmolejo-Ramos (2016).",
+               "Assessing Equality of Means Using the Overlap of
+		   Range-Preserving Confidence Intervals.",
+               "The American Statistician 70(4), 325–334."))
+
+citEntry(entry="Article",
+         title = "A Robust Test for Checking the Homogeneity of Variability
+		   Measures and Its Application to the Analysis of Implicit Attitudes.",
+         author = personList(as.person("Ryan C. Erps"),
+                             as.person("Kimihiro Noguchi")),
+         journal      = "Journal of Educational and Behavioral Statistics",
+         year         = "2019",
+
+         textVersion =
+         paste("Ryan C. Erps and Kimihiro Noguchi (2019).",
+               "A Robust Test for Checking the Homogeneity of Variability
+		Measures and Its Application to the Analysis of Implicit Attitudes.",
+               "Journal of Educational and Behavioral Statistics, Accepted.")
+)
